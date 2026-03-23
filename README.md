@@ -4,7 +4,7 @@
     I'm majoring in <b>Artificial Intelligence</b> at <b>National Economics University</b> (Ha Noi, Viet Nam).<br/>
   </p>
 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/quang-minh-nguy%E1%BB%85n-96ba233b3/)">
+  <a href="https://www.linkedin.com/in/quang-minh-nguy%E1%BB%85n-96ba233b3/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:minhquangqu@gmail.com">
