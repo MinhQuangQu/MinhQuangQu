@@ -79,14 +79,14 @@ Multi-modal stress detection using physiological signals.  |  Molecular SMILES d
 
 #### 📚 Class Projects
 
-- Restaurant Ordering System - Full-Stack Dev - Java Project - https://github.com/fda-oop-java-anhpt/ai66a-p10-restaurant-ordering-system  
-- Seizure Detection using ECoG - Data Analyst & ML/ DL Dev - Time-Series Project -https://github.com/teddywristh/Seizure-Dectection-using-ECoG-  
-- AI66A Group 6 Project - Data Analyst & ML Dev - Sepsis Detection Research - https://github.com/MinhQuangQu/AI66A_group_6  
-- EMS Database Project - Backend Dev - Database Project - https://github.com/MinhQuangQu/ems-database-project  
+- Restaurant Ordering System - Full-Stack Dev - Java Project - [🔗 **View Project**](https://github.com/fda-oop-java-anhpt/ai66a-p10-restaurant-ordering-system)
+- Seizure Detection using ECoG - Data Analyst & ML/ DL Dev - Time-Series Project - [🔗 **View Project**](https://github.com/teddywristh/Seizure-Dectection-using-ECoG-)
+- AI66A Group 6 Project - Data Analyst & ML Dev - Sepsis Detection Research - [🔗 **View Project**](https://github.com/MinhQuangQu/AI66A_group_6)
+- EMS Database Project - Backend Dev - Database Project - [🔗 **View Project**](https://github.com/MinhQuangQu/ems-database-project)
 
 #### 🗂️ Others
 
-- Coding Web FDA - Database Engineer & Backend Dev - https://github.com/teddywristh/Coding-Web-FDA  
+- Coding Web FDA - Database Engineer & Backend Dev - [🔗 **View Project**](https://github.com/teddywristh/Coding-Web-FDA)
 ---
 
 **💼 Open to opportunities:** I am currently seeking research collaborations and internships in AI & Data Science.
