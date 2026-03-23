@@ -73,7 +73,7 @@ Collecting and processing vital sign data for Medical AI research.  |  Database 
 
 | 🧠 Stress Detection | 💊 XSMILES |
 | :--- | :--- |
-| **Role:** Data Engineer/ ML Dev & Researcher  |  **Role:** GNN Framework Dev
+| **Role:** Data Engineer/ ML Dev & Researcher  |  **Role:** GNN Framework Dev & Backend Dev
 Multi-modal stress detection using physiological signals.  |  Molecular SMILES data processing for biomedical AI.  
 | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Stress-Team) | [🔗 **View Project**](https://github.com/nghianguyen7171/XSMILES) |
 
@@ -89,7 +89,7 @@ Multi-modal stress detection using physiological signals.  |  Molecular SMILES d
 - Coding Web FDA - Database Engineer & Backend Dev - [🔗 **View Project**](https://github.com/teddywristh/Coding-Web-FDA)
 ---
 
-**💼 Open to opportunities:** I am currently seeking research collaborations and internships in AI & Data Science.
+**💼 Open to opportunities:** I am currently seeking **research collaborations** and **internships in AI & Data Science**.
 **📫 Contact me:** [minhquangqu@gmail.com](mailto:minhquangqu@gmail.com)
 
 ---
