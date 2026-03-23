@@ -87,6 +87,7 @@ Multi-modal stress detection using physiological signals.  |  Molecular SMILES d
 #### 🗂️ Others
 
 - Coding Web FDA - Database Engineer & Backend Dev - [🔗 **View Project**](https://github.com/teddywristh/Coding-Web-FDA)
+- Hybrid Rule & ML Decision System - [🔗 **View Project**](https://github.com/MinhQuangQu/hybrid-rule-ml-sys)
 ---
 
 **💼 Open to opportunities:** I am currently seeking **research collaborations** and **internships in AI & Data Science**.
