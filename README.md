@@ -67,20 +67,14 @@
 
 | 📊 Vital Signs Dataset | 💓 PulseDB |
 | :--- | :--- |
-| **Role:** Analyst & Researcher  
-Collecting and processing vital sign data for Medical AI research.  
-*(Jupyter Notebook)* | **Role:** Analyst & Researcher  
-Database and analysis system for pulse and physiological signals.  
-*(Python)* |
+| **Role:** DL Framework Dev & Researcher  |  **Role:** DL Framework Dev & Researcher
+Collecting and processing vital sign data for Medical AI research.  |  Database and analysis system for pulse and physiological signals.  
 | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Vital_sign_Dataset) | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/PulseDB) |
 
 | 🧠 Stress Detection | 💊 XSMILES |
 | :--- | :--- |
-| **Role:** Researcher  
-Multi-modal stress detection using physiological signals.  
-*(Python)* | **Role:** Contributor  
-Molecular SMILES data processing for biomedical AI.  
-*(Python)* |
+| **Role:** Data Engineer/ ML Dev & Researcher  |  **Role:** GNN Framework Dev
+Multi-modal stress detection using physiological signals.  |  Molecular SMILES data processing for biomedical AI.  
 | [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/Stress-Team) | [🔗 **View Project**](https://github.com/nghianguyen7171/XSMILES) |
 
 #### 📚 Class Projects
