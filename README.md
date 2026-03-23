@@ -4,7 +4,7 @@
     I'm majoring in <b>Artificial Intelligence</b> at <b>National Economics University</b> (Ha Noi, Viet Nam).<br/>
   </p>
 
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/quang-minh-nguy%E1%BB%85n-96ba233b3/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:minhquangqu@gmail.com">
@@ -19,8 +19,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Medical AI (Vital Signs | PulseDB | Stress Detection)** at NEU Bio Research Team.
-- 🌱 I'm currently learning **Deep Learning (LSTM, Transformer)** and **Full-stack Web Development**.
+- 🔭 I'm currently working on **Medical AI (Vital Signs | PulseDB | Stress Detection | Toxic Molecules)** at NEU Bio Research Team.
+- 🌱 I'm currently learning **Deep Learning, Machine Learning, NLP** and **Backend Development**.
 - 👯 I'm looking to collaborate on **Open Source AI & Web Projects**.
 - 👨‍💻 All of my projects are available at [https://github.com/MinhQuangQu](https://github.com/MinhQuangQu).
 
