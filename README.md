@@ -63,6 +63,14 @@
 
 ### 📌 Featured Projects
 
+#### 🔭 Hackathon Project
+
+| 📊 ToxAgent |
+| :--- |
+| **Role:** GNN & LLM-based agents Framework Dev & Researcher  |
+ToxAgent - Agentic AI Framework supporting detect toxic molecules  |
+| [🔗 **View Project**](https://github.com/NEU-Bio-Research-Team/tox-agent) |
+
 #### 🎓 Academic Research
 
 | 📊 Vital Signs Dataset | 💓 PulseDB |
