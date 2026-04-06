@@ -99,11 +99,7 @@ Multi-modal stress detection using physiological signals.  |  Molecular SMILES d
 ---
 
 **💼 Open to opportunities:** I am currently seeking **research collaborations** and **internships in AI & Data Science**.
-**📫 Contact me:** [minhquangqu@gmail.com](mailto:minhquangqu@gmail.com)
+**📫 Contact me:** [minhngg.qu@gmail.com](mailto:minhngg.qu@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhQuangQu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuangQu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
