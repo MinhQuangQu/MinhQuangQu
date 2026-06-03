@@ -63,7 +63,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔭 Top 4 Google Developers Group Hacakathon 2026 Vietnam
+#### 🔭 Top 4 Google Developers Group Hackathon 2026 Vietnam
 
 | 📊 ToxAgent |
 | :--- |
